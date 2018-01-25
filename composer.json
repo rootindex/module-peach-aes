@@ -1,0 +1,14 @@
+{
+  "name": "peach/aes",
+  "description": "Magento module to decrypt AES 256 GCM without libsodium",
+  "type": "magento-module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Francois Raubenheimer",
+      "email": "rootindex@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
+}

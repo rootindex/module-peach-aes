@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+  ~ 🔒 Copyright (c) 2018 Francois Raubenheimer. All rights reserved.
+  -->
+<config>
+    <modules>
+        <Peach_AES>
+            <version>1.0.0</version>
+        </Peach_AES>
+    </modules>
+    <global>
+        <models>
+            <peach_aes>
+                <class>Peach_AES_Model</class>
+            </peach_aes>
+        </models>
+    </global>
+</config>
