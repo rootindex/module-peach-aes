@@ -1,5 +1,5 @@
 {
-  "name": "peach/aes",
+  "name": "peach/module-aes",
   "description": "Magento module to decrypt AES 256 GCM without libsodium",
   "type": "magento-module",
   "license": "MIT",
